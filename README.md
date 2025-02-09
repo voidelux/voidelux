@@ -27,6 +27,6 @@ I'm **villenure**, a junior developer with interests in **Python**, **HTML**, **
 
 ## 📬 Get In Touch
 - **GitHub**: [github.com/villenure](https://github.com/villenure)
-- **Email**: [devillenure](https://discord.com)
+- **Discord**: [@devillenure](https://discord.com)
 
 Thank you for visiting! 😊
