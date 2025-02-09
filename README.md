@@ -5,8 +5,8 @@ I'm **villenure**, a junior developer with interests in **Python**, **HTML**, **
 ## 🛠️ Skills
 
 ### Programming Languages
-- **Python**: Beginner - Intermediate 🐍
-- **HTML & CSS**: Beginner - Intermediate 🌐
+- **Python**: Beginner - Junior 🐍
+- **HTML & CSS**: Junior - middle 🌐
 - **Go**: Currently learning 🚀
 
 ### Tools
@@ -15,9 +15,8 @@ I'm **villenure**, a junior developer with interests in **Python**, **HTML**, **
 - **CLI** 💻
 
 ## 📚 Projects
-- **[Python Project](#)**: Project description.
-- **[HTML & CSS Project](#)**: Project description.
-- **[Go Project](#)**: Learning Go.
+- **[HTML & CSS Project](https://github.com/villenure/YandexMusic---theme)**: Theme for yandex-music
+- **[Go Project](#)**: Soon...
 
 ## 🎯 Goals
 - Improve skills in **Python**, **HTML**, **CSS**.
