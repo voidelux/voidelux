@@ -11,10 +11,12 @@ I'm **villenure**, a junior developer with interests in **Python**, **HTML**, **
 - **HTML & CSS**: Junior - middle 🌐
 - **Go**: Currently learning 🚀
 
-### Tools
-- **Git & GitHub** 🗂️
-- **VS Code** 🖥️
-- **CLI** 💻
+### 
+- **Arch Linux**  🐧
+- **Hyprland**  🎨
+- **Git & GitHub**  🌱
+- **VS Code**  📝
+- **CLI**  🖥️ 
 
 ## 📚 Projects
 - **[HTML & CSS Project](https://github.com/villenure/YandexMusic---theme)**: Theme for yandex-music
