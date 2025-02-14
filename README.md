@@ -1,4 +1,4 @@
-![image]([files/Users/jzhang/Desktop/Isolated.png](https://github.com/villenure/villenure/blob/main/1.gif))
+![image](https://github.com/villenure/villenure/blob/main/1.gif)
 
 # 👋 Hello!
 
