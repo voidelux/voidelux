@@ -1,5 +1,4 @@
-![image](https://github.com/villenure/villenure/blob/main/1.gif)
-
+<img src="https://github.com/villenure/villenure/blob/main/1.gif" width="100%">
 # 👋 Hello!
 
 I'm **villenure**, a junior developer with interests in **Python**, **HTML**, **CSS**, and **Go**. Constantly learning and improving my skills.
