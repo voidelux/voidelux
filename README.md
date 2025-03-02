@@ -9,7 +9,6 @@ I'm **villenure**, a junior developer with interests in **Python**, **HTML**, **
 ### Programming Languages
 - **Python**: Beginner - Junior 🐍
 - **HTML & CSS**: Junior - middle 🌐
-- **Go**: Currently learning 🚀
 
 ### 
 - **Arch Linux**  🐧
