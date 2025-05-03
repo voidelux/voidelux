@@ -2,7 +2,7 @@
 
 ## 👋 Hello!
 
-I'm **voidelux**, a junior developer with interests in **Python**, **HTML**, **CSS**, and **Go**. Constantly learning and improving my skills.
+I'm **voidelux**, a junior developer with interests in **Python**, **HTML**, **CSS**. Constantly learning and improving my skills.
 
 ## 🛠️ Skills
 
