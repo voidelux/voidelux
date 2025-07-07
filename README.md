@@ -1,4 +1,5 @@
-![foto](https://i.pinimg.com/736x/3f/f5/c8/3ff5c89a2228b02095ca69a8452fbe43.jpg)
+![foto](https://i.pinimg.com/736x/f5/ad/1f/f5ad1fcfc40f16fab578e12e8cbfb71c.jpg)
+
 # 👨‍💻 voidelux
 
 > Fullstack Developer • Linux & Security Enthusiast • Code & System Purist
@@ -10,7 +11,7 @@
 - 🎯 Writing clean code in **TypeScript** and **Python**
 - ⚛️ Building interfaces with **React** and **TailwindCSS**
 - 🐍 Developing backends using **FastAPI**
-- 🐧 Living in **Arch Linux / Kali / BlackArch**
+- 🐧 Living in **Arch Linux / Macos**
 - 🛠 Skilled with **SSH**, **Docker**, **Zsh**, **nmap**, **tmux**
 - 🔒 Deeply focused on **security**, **pentesting**, and **system hardening**
 - 🧰 CLI: **Neovim**, **Git**
@@ -28,7 +29,7 @@
 ### 🔙 Backend
 - 🐍 Python / FastAPI
 - 🗃 SQLite / SQLAlchemy
-- 📦 REST APIs
+- 📦 Aiogram
 
 ### ⚙️ Tools & DevOps
 - 🐧 Arch / Kali / BlackArch Linux
@@ -36,7 +37,7 @@
 - 📡 nmap / Wireshark / Gobuster
 - 🔐 Metasploit / Hashcat / John the Ripper
 - 🧪 Git / SSH / GPG
-- 🖥 Zsh / Bash / Tmux
+- 🖥 Zsh / Ghostty / Tmux
 - 🧠 Neovim / VSCode
 
 ---
@@ -53,7 +54,7 @@
 ## 📫 Contact
 
 - 📧 Email: `code@luxnoir.lol`
-- 🌍 Portfolio: luxnoir.lol
+- 🌍 Portfolio: https://luxnoir.lol
 
 ---
 
