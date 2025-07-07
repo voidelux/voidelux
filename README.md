@@ -1,30 +1,64 @@
-<img src="https://github.com/villenure/villenure/blob/main/1.gif" width="100%">
+![foto](https://i.pinimg.com/736x/3f/f5/c8/3ff5c89a2228b02095ca69a8452fbe43.jpg)
+# 👨‍💻 voidelux
 
-## 👋 Hello!
+> Fullstack Developer • Linux & Security Enthusiast • Code & System Purist
 
-I'm **voidelux**, a junior developer with interests in **Python**, **HTML**, **CSS**. Constantly learning and improving my skills.
+---
 
-## 🛠️ Skills
+## 🧠 About Me
 
-### Programming Languages
-- **Python**: Junior 🐍
-- **HTML & CSS**: Junior 🌐
+- 🎯 Writing clean code in **TypeScript** and **Python**
+- ⚛️ Building interfaces with **React** and **TailwindCSS**
+- 🐍 Developing backends using **FastAPI**
+- 🐧 Living in **Arch Linux / Kali / BlackArch**
+- 🛠 Skilled with **SSH**, **Docker**, **Zsh**, **nmap**, **tmux**
+- 🔒 Deeply focused on **security**, **pentesting**, and **system hardening**
+- 🧰 CLI: **Neovim**, **Git**
+- 🤝 Open to new projects, collaborations, and challenges
 
-### 
-- **Arch Linux**  🐧
-- **Hyprland**  🎨
-- **Git & GitHub**  🌱
-- **Vim / Nvim**  📝
-- **CLI**  🖥️ 
+---
 
+## 🛠 Tech Stack
 
-## 🎯 Goals
-- Improve skills in **Python**, **HTML**, **CSS**.
-- Create and contribute to open-source projects.
-- Continuously learn and grow.
+### 💻 Frontend
+- ⚛️ React / TypeScript / TSX 
+- 🎨 TailwindCSS / Lucide
+- 🧪 Learning MUI
 
-## 📬 Get In Touch
-- **GitHub**: [github.com/voidelux](https://github.com/voidelux)
-- **Discord**: [@voidelux](https://discord.com)
+### 🔙 Backend
+- 🐍 Python / FastAPI
+- 🗃 SQLite / SQLAlchemy
+- 📦 REST APIs
 
-Thank you for visiting! 😊
+### ⚙️ Tools & DevOps
+- 🐧 Arch / Kali / BlackArch Linux
+- 🐳 Docker / Docker Compose
+- 📡 nmap / Wireshark / Gobuster
+- 🔐 Metasploit / Hashcat / John the Ripper
+- 🧪 Git / SSH / GPG
+- 🖥 Zsh / Bash / Tmux
+- 🧠 Neovim / VSCode
+
+---
+
+## 🔐 Security Focus
+
+- 🧠 Familiar with real-world attack vectors: XSS, SSRF, RCE, LFI, CSRF
+- 🧰 Info gathering, recon, exploitation & reporting
+- 🔍 Network & infrastructure analysis
+- 🛡 Bug hunting, internal audits, red teaming mindset
+
+---
+
+## 📫 Contact
+
+- 📧 Email: `code@luxnoir.lol`
+- 🌍 Portfolio: luxnoir.lol
+
+---
+
+## 📌 Goals
+
+- 🧱 Build powerful open-source tools
+- 🔐 Combine secure coding with infrastructure awareness
+- 🤝 Work with smart, driven people on real-world problems
