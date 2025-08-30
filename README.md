@@ -54,7 +54,8 @@
 
 ---
 
-[![voidelux's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidelux&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![voidelux's GitHub stats](https://github-readme-stats.vercel.app/api/toplangs/username=voidelux&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117></a>
+)
 
 
 
