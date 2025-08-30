@@ -55,7 +55,7 @@
 ---
 
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidelux&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages"></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidelux&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="320px" alt="Most used languages"></a>
 
 
 
